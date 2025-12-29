@@ -1,32 +1,38 @@
 🚀 LennyV1 – Mod Menu (Test & Fun)
 
-LennyV1 is an experimental mod menu created for learning, testing, and fun purposes.
-It provides multiple gameplay modification features that allow you to control player movement and states in a simple toggle‑based menu.
+LennyV1 is an experimental Lua-based mod menu created for learning, testing, and fun purposes.
+It provides a simple toggle menu that allows you to modify player movement and states.
 
-This project focuses on menu structure, feature toggles, and basic mod logic, not on bypassing security systems.
+The project focuses on Lua scripting, menu logic, and feature toggles, not on bypassing security systems.
 
 ✨ Features
 
-👻 Invisibility – Toggle player visibility on/off
+👻 Invisibility
 
-⚡ Speed Boost – Increase movement speed
+⚡ Speed Boost
 
-🦘 High Jump – Jump higher than normal
+🦘 High Jump
 
-🕊️ Fly Mode – Free movement in the air
+🕊️ Fly Mode
 
-🚪 NoClip – Move through walls and objects
+🚪 NoClip
 
-🛡️ God Mode – Disable damage
+🛡️ God Mode
 
-🎮 Purpose
+📂 Script File
 
-LennyV1 is intended for:
+Main script: LennyV1.lua
 
-Learning how mod menus are built
+Language: Lua
 
-Testing gameplay mechanics
+▶️ Usage
 
-Experimenting in singleplayer or private environments
+Open the file LennyV1.lua
 
-Practicing clean toggle‑based feature systems
+Copy the entire code
+
+Paste it into your Lua executor / script runner
+
+Execute the script in a supported testing environment
+
+The menu will load after execution and allow you to toggle features on and off.
